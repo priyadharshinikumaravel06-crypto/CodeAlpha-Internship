@@ -1,0 +1,11 @@
+Task 2 High-Fidelity UI Design
+
+This project was developed as part of the CodeAlpha UI/UX Design Internship under Task 2: High-Fidelity UI Design.
+The project focuses on designing a modern and user-friendly Food Delivery Mobile Application named TastyGo using Figma.
+The low-fidelity wireframes were transformed into visually appealing screens by incorporating color palettes, typography, images, icons, and interactive UI components. 
+The application includes essential screens such as Splash Screen, Login Screen, Home Screen, Food Details Screen, and Cart Screen to provide a smooth food ordering experience. 
+The design follows core UI/UX principles, ensuring consistency, usability, and intuitive navigation.
+This project helped strengthen my understanding of visual hierarchy, user-centered design, and high-fidelity interface design using Figma.
+
+🔗 Figma Design Link:
+[https://www.figma.com/design/1Ru4mVbbXUk3VrtUD5jh3Q/TastyGo?node-id=35-2&t=nROtb0p2ZdubuJej-1]
